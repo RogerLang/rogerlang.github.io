@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 # Unanticipated broad phylogeny of BEN DNA-binding domains revealed by structural homology searches  
 
 ## 前言
