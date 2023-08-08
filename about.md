@@ -1,15 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Some information about you!
+**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[luo347@outlook.com](mailto:luo347@outlook.com)
+For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
